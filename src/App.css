@@ -1,1 +1,10 @@
-/*Schrijf hier jouw css voor jouw formulier*/
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+label {
+    display: block;
+    margin: 24px 16px;
+}
